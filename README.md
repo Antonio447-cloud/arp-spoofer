@@ -14,10 +14,6 @@ The following Python script allows you to spoof the MAC address of a device conn
 
 `python arp-spoofer.py --help`
 
-## Output:
-
-![arp-spoofer](./image/output.png)
-
 # Legal Disclaimer
 
 The use of code contained in this repository, either in part or in its totality, for engaging targets without prior mutual consent is illegal. It is the end-user's responsibility to obey all applicable local, state and federal laws.
