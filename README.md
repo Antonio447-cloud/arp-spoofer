@@ -4,7 +4,7 @@ The following Python script allows you to spoof the MAC address of a device conn
 
 - You will need to install the scapy module before running this script: 
 
-`pip install scapy python`
+`pip install scapy`
 
 - To run this script: 
 
@@ -17,6 +17,8 @@ The following Python script allows you to spoof the MAC address of a device conn
 ## Output
 
 ![output](./image/output.png)
+
+**Note**: *This script was developed to work on Linux distributions only.*
 
 # Legal Disclaimer
 
