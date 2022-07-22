@@ -2,7 +2,7 @@
 
 The following Python script allows you to spoof the MAC address of a device connected to a network as well as spoofing the MAC address of the router, forcing both devices to update their ip tables so that you can become the man in the middle. This is very useful in penetration testing because it can help mitigate denial of service, man in the middle and session hijacking attacks.
 
-- You will need to install the scapy module as well as enabling port forwarding before running this script: 
+- You will need to install the scapy module as well as enable port forwarding before running this script: 
 
 `pip install scapy`
 
